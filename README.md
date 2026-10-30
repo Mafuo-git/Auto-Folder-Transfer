@@ -9,8 +9,7 @@ The destination can be a local folder or a network share. Subfolder structure is
 This project started as a way to transfer Assetto Corsa telemetry files
 between two PCs on the same network. One PC runs Assetto Corsa, while another
 can analyze the data with MoTeC. The transfer is not live: files are copied
-when they are created or updated, for example when a driver returns to thepipipipipi
-pits.
+when they are created or updated, for example when a driver returns to the pits.
 
 The tool is not limited to Assetto Corsa or MoTeC. It can be used whenever
 you want files added to or changed in one folder to be copied automatically to another folder.
